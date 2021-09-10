@@ -1,2 +1,2 @@
-# Say Hello to Everyone #
-print("Hello World")
+# Say Goodbye to Everyone #
+print("Goodbye World")
